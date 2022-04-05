@@ -1,0 +1,15 @@
+C:\Users\Andrea.Ioannou\source\repos\CalastoneAssignment\CalastoneAssignment\bin\Debug\netcoreapp3.1\CalastoneAssignment.exe
+C:\Users\Andrea.Ioannou\source\repos\CalastoneAssignment\CalastoneAssignment\bin\Debug\netcoreapp3.1\Resources\Input.txt
+C:\Users\Andrea.Ioannou\source\repos\CalastoneAssignment\CalastoneAssignment\bin\Debug\netcoreapp3.1\CalastoneAssignment.deps.json
+C:\Users\Andrea.Ioannou\source\repos\CalastoneAssignment\CalastoneAssignment\bin\Debug\netcoreapp3.1\CalastoneAssignment.runtimeconfig.json
+C:\Users\Andrea.Ioannou\source\repos\CalastoneAssignment\CalastoneAssignment\bin\Debug\netcoreapp3.1\CalastoneAssignment.runtimeconfig.dev.json
+C:\Users\Andrea.Ioannou\source\repos\CalastoneAssignment\CalastoneAssignment\bin\Debug\netcoreapp3.1\CalastoneAssignment.dll
+C:\Users\Andrea.Ioannou\source\repos\CalastoneAssignment\CalastoneAssignment\bin\Debug\netcoreapp3.1\CalastoneAssignment.pdb
+C:\Users\Andrea.Ioannou\source\repos\CalastoneAssignment\CalastoneAssignment\obj\Debug\netcoreapp3.1\CalastoneAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea.Ioannou\source\repos\CalastoneAssignment\CalastoneAssignment\obj\Debug\netcoreapp3.1\CalastoneAssignment.AssemblyInfoInputs.cache
+C:\Users\Andrea.Ioannou\source\repos\CalastoneAssignment\CalastoneAssignment\obj\Debug\netcoreapp3.1\CalastoneAssignment.AssemblyInfo.cs
+C:\Users\Andrea.Ioannou\source\repos\CalastoneAssignment\CalastoneAssignment\obj\Debug\netcoreapp3.1\CalastoneAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Andrea.Ioannou\source\repos\CalastoneAssignment\CalastoneAssignment\obj\Debug\netcoreapp3.1\CalastoneAssignment.dll
+C:\Users\Andrea.Ioannou\source\repos\CalastoneAssignment\CalastoneAssignment\obj\Debug\netcoreapp3.1\CalastoneAssignment.pdb
+C:\Users\Andrea.Ioannou\source\repos\CalastoneAssignment\CalastoneAssignment\obj\Debug\netcoreapp3.1\CalastoneAssignment.genruntimeconfig.cache
+C:\Users\Andrea.Ioannou\source\repos\CalastoneAssignment\CalastoneAssignment\obj\Debug\netcoreapp3.1\CalastoneAssignment.csproj.AssemblyReference.cache
